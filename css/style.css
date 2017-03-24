@@ -7,12 +7,17 @@
     align-content: center;
 }
 
+#map{
+    width: 100%;
+    height: 8em;
+}
+
+.navbar-link {
+    float: right;
+}
+
 .card-deck{
     margin: 0 auto; /* Added */
     float: none; /* Added */
     margin-bottom: 10px; /* Added */
-}
-
-#categoryBtns {
-    float: right;
 }
